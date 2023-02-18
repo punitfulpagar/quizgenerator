@@ -1,0 +1,162 @@
+[ 
+      {
+        "question": "QUESTION 1.",
+        "choice1": "laddoo",
+        "choice2": "jalebi",
+        "choice3": "burfi ",
+        "choice4": "None of these",
+        "answer": "3"
+      },
+      {
+        "question": "QUESTION 2.​",
+        "choice1": "Please help for some time",
+        "choice2": "Please wait for this time",
+        "choice3": "hey, wait for some time",
+        "choice4": "Please wait for some time",
+        "answer": "4"
+      },
+      {
+        "question": "QUESTION 3.",
+        "choice1": "23",
+        "choice2": "24",
+        "choice3": "20",
+        "choice4": "15",
+        "answer": "2"
+      },
+      {
+        "question": "QUESTION 4 ",
+        "choice1": "the carrier in full",
+        "choice2": "your employment with in",
+        "choice3": "carrier all in all",
+        "choice4": "your carrier with all​",
+        "answer": "4"
+      },
+      {
+        "question": "QUESTION​ 5",
+        "choice1": "Do-While loop",
+        "choice2": "While loop",
+        "choice3": "For loop",
+        "choice4": "NOne of these",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION 6",
+        "choice1": "visited",
+        "choice2": "visites",
+        "choice3": "going",
+        "choice4": "None of these",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION 7 ",
+        "choice1": "Cu+",
+        "choice2": "Li+",
+        "choice3": "Ag+",
+        "choice4": "Au+",
+        "answer": "2"
+      },
+      {
+        "question": "QUESTION 8",
+        "choice1": "289/5",
+        "choice2": "89/50",
+        "choice3": "289/50",
+        "choice4": "209/50",
+        "answer": "3"
+      },
+      {
+        "question": "QUESTION 9",
+        "choice1": "High current carrying capacity",
+        "choice2": "Higher Voltage",
+        "choice3": " Higher Power",
+        "choice4": "none of the above",
+        "answer": "3"
+      },
+      {
+        "question": "QUESTION 10",
+        "choice1": "71",
+        "choice2": "72",
+        "choice3": "73",
+        "choice4": "74",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION: 11",
+        "choice1": "MlP",
+        "choice2": "NTR",
+        "choice3": "MSP",
+        "choice4": "NTO",
+        "answer": "3"
+      },
+      {
+        "question": "QUESTION 12",
+        "choice1": " Process Activities ",
+        "choice2": "Process Roles",
+        "choice3": "Process Policy ",
+        "choice4": "All of these are elements of a process",
+        "answer": "4"
+      },
+      {
+        "question": "QUESTION 13",
+        "choice1": "Cash A/c … Dr      - 90000 To Capital A/c      -       90000",
+        "choice2": "Cash A/c … Dr      - 90000 To Capital A/c",
+        "choice3": "Cash A/c … Dr,To Capital A/c      -       90000",
+        "choice4": "None of these",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION 14",
+        "choice1": "Carrot ",
+        "choice2": "Radish ",
+        "choice3": "Turnip ",
+        "choice4": "Potato",
+        "answer": "4"
+      },
+      {
+        "question": "QUESTION 15",
+        "choice1": "Completing the syllabus without ascertaining the learning of children",
+        "choice2": "Learning levels of children ",
+        "choice3": "Class",
+        "choice4": "grade of the child Age of the child",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION 16",
+        "choice1": " services enables rapid disaster recovery",
+        "choice2": "Optimized for data for which retrieval times of several hours are suitable.",
+        "choice3": " Optimized for data that is infrequently accessed.",
+        "choice4": " Secure and durable storage for data archiving and backup.",
+        "answer": "2"
+      },
+      {
+        "question": "QUESTION 17",
+        "choice1": "hardly",
+        "choice2": "proudly",
+        "choice3": "correctly",
+        "choice4": "None of these",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION 18",
+        "choice1": "ClF3",
+        "choice2": "BCl3",
+        "choice3": "SO3",
+        "choice4": "XeO3",
+        "answer": "4"
+      },
+      {
+        "question": "QUESTION 19 ",
+        "choice1": "wreaked",
+        "choice2": "reeked",
+        "choice3": "wreckt",
+        "choice4": "rect",
+        "answer": "1"
+      },
+      {
+        "question": "QUESTION 20",
+        "choice1": "She requested be bring in glass of water.",
+        "choice2": "She requested to bring a glass of water.",
+        "choice3": "She request to bring a glass the water.",
+        "choice4": "None of these",
+        "answer": "2"
+      }
+  ]
