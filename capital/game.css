@@ -12,7 +12,7 @@ body{
     display: flex;
     margin-bottom: 0.5rem;
     /* font-size: 1.5rem; */
-    /* border: 0.1rem solid rgb(86, 165, 235, 0.25); */
+    border: 0.1rem solid rgb(86, 165, 235, 0.25);
     background-color: white;
     height: 4rem; border-radius: 1rem;
   }
