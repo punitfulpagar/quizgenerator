@@ -4,6 +4,7 @@ body{
 }
 :root {
   --backgroud--color : #27272a;
+  --main-color : #212529;
 }
 .option-box{
   background-color: var(--backgroud--color);
@@ -12,9 +13,9 @@ body{
     display: flex;
     margin-bottom: 0.5rem;
     /* font-size: 1.5rem; */
-    border: 0.1rem solid rgb(86, 165, 235, 0.25);
+    border: 0.1rem solid var(--main-color);
     background-color: white;
-    height: 4rem; border-radius: 1rem;
+    height: 4.2rem; border-radius: 1rem;
   }
   
   .choice-container:hover {
@@ -30,15 +31,16 @@ body{
     /* background-color: #56a5eb; */
     background-color: #212529;
     color: white;
-    margin-bottom: 0.5px;
+    margin-top: 0;
+    margin-bottom: 0;
     height: 4rem;
-    border-radius: 1rem;
+    border-radius: 0.8rem;
   }
   
   .choice-text {
     padding: 1rem;
     width: 100%;
-    height: 50px;
+    height: 100px;
   }
   
   .correct {
