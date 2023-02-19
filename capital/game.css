@@ -13,9 +13,9 @@ body{
     display: flex;
     margin-bottom: 0.5rem;
     /* font-size: 1.5rem; */
-    border: 0.1rem solid var(--main-color);
+    /* border: 0.1rem solid var(--main-color); */
     background-color: white;
-    height: 4.2rem; border-radius: 1rem;
+    height: 4rem; border-radius: 1rem;
   }
   
   .choice-container:hover {
