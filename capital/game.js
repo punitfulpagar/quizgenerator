@@ -13,6 +13,7 @@ let acceptingAnswers = false;
 let questionCounter = 0;
 let availableQuestions = []
 let questions = [];
+const audio = new Audio();
 
 fetch('/capital/questions.json')
     .then((res) => {
@@ -28,7 +29,7 @@ fetch('/capital/questions.json')
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 41;
+const MAX_QUESTIONS = 20;
 
 startGame = () => {
     questionCounter = 0;
@@ -86,23 +87,30 @@ choices.forEach((choice) => {
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === 'correct') {
+            // audio.src = "./sound/correct.mp3"
             incrementScore(CORRECT_BONUS);
         }
         if(currentQuestion.answer == answer1.dataset['number'])
         {
             answer1.parentElement.classList.add('correct');
+            audio.src = "./sound/correct.mp3"
         }
         else if(currentQuestion.answer == answer2.dataset['number'])
         {
             answer2.parentElement.classList.add('correct');
+            audio.src = "./sound/correct.mp3"
+           
         }
         else if(currentQuestion.answer == answer3.dataset['number'])
         {
             answer3.parentElement.classList.add('correct');
+            audio.src = "./sound/correct.mp3"
+          
         }
         else
         {
             answer4.parentElement.classList.add('correct');
+            audio.src = "./sound/correct.mp3"
         }
 
 
@@ -112,6 +120,7 @@ choices.forEach((choice) => {
 
         // next button code
         nextWorking = ()=>{
+            audio.src = "./sound/correct.mp3"
             window.scrollTo(0,0);
             selectedChoice.parentElement.classList.remove(classToApply);
             answer1.parentElement.classList.remove('correct');

@@ -74,26 +74,26 @@
 
             <div class="row">
               <section >
-                <div class="choice-container">
+                <div class="choice-container" onclick="audio.play();">
                   <p class="choice-prefix">A</p>
-                  <p class="choice-text" id="answer1" data-number="1"></p>
+                  <p class="choice-text align-middle" id="answer1" data-number="1"></p>
                 </div>
-                <div class="choice-container">
+                <div class="choice-container" onclick="audio.play();">
                   <p class="choice-prefix">B</p>
-                  <p class="choice-text" id="answer2" data-number="2"></p>
+                  <p class="choice-text align-middle" id="answer2" data-number="2"></p>
                 </div>
-                <div class="choice-container">
+                <div class="choice-container" onclick="audio.play();">
                   <p class="choice-prefix">C</p>
-                  <p class="choice-text" id="answer3" data-number="3"></p>
+                  <p class="choice-text align-middle" id="answer3" data-number="3"></p>
                 </div>
-                <div class="choice-container">
+                <div class="choice-container" onclick="audio.play();">
                   <p class="choice-prefix">D</p>
-                  <p class="choice-text" id="answer4" data-number="4"></p>
+                  <p class="choice-text align-middle" id="answer4" data-number="4"></p>
                 </div>
                 <div class="text-center">
                   <button
                   id="nextButton"
-                  onclick="nextWorking()"
+                  onclick="nextWorking()" onclick="audio.play();"
                   class="btn btn-dark align-self-center mt-3"
                   disabled="disabled"
                 >

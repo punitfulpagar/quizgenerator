@@ -1,162 +1,473 @@
-[ 
-      {
-        "question": "QUESTION 1.",
-        "choice1": "laddoo",
-        "choice2": "jalebi",
-        "choice3": "burfi ",
-        "choice4": "None of these",
-        "answer": "3"
-      },
-      {
-        "question": "QUESTION 2.​",
-        "choice1": "Please help for some time",
-        "choice2": "Please wait for this time",
-        "choice3": "hey, wait for some time",
-        "choice4": "Please wait for some time",
-        "answer": "4"
-      },
-      {
-        "question": "QUESTION 3.",
-        "choice1": "23",
-        "choice2": "24",
-        "choice3": "20",
-        "choice4": "15",
-        "answer": "2"
-      },
-      {
-        "question": "QUESTION 4 ",
-        "choice1": "the carrier in full",
-        "choice2": "your employment with in",
-        "choice3": "carrier all in all",
-        "choice4": "your carrier with all​",
-        "answer": "4"
-      },
-      {
-        "question": "QUESTION​ 5",
-        "choice1": "Do-While loop",
-        "choice2": "While loop",
-        "choice3": "For loop",
-        "choice4": "NOne of these",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION 6",
-        "choice1": "visited",
-        "choice2": "visites",
-        "choice3": "going",
-        "choice4": "None of these",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION 7 ",
-        "choice1": "Cu+",
-        "choice2": "Li+",
-        "choice3": "Ag+",
-        "choice4": "Au+",
-        "answer": "2"
-      },
-      {
-        "question": "QUESTION 8",
-        "choice1": "289/5",
-        "choice2": "89/50",
-        "choice3": "289/50",
-        "choice4": "209/50",
-        "answer": "3"
-      },
-      {
-        "question": "QUESTION 9",
-        "choice1": "High current carrying capacity",
-        "choice2": "Higher Voltage",
-        "choice3": " Higher Power",
-        "choice4": "none of the above",
-        "answer": "3"
-      },
-      {
-        "question": "QUESTION 10",
-        "choice1": "71",
-        "choice2": "72",
-        "choice3": "73",
-        "choice4": "74",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION: 11",
-        "choice1": "MlP",
-        "choice2": "NTR",
-        "choice3": "MSP",
-        "choice4": "NTO",
-        "answer": "3"
-      },
-      {
-        "question": "QUESTION 12",
-        "choice1": " Process Activities ",
-        "choice2": "Process Roles",
-        "choice3": "Process Policy ",
-        "choice4": "All of these are elements of a process",
-        "answer": "4"
-      },
-      {
-        "question": "QUESTION 13",
-        "choice1": "Cash A/c … Dr      - 90000 To Capital A/c      -       90000",
-        "choice2": "Cash A/c … Dr      - 90000 To Capital A/c",
-        "choice3": "Cash A/c … Dr,To Capital A/c      -       90000",
-        "choice4": "None of these",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION 14",
-        "choice1": "Carrot ",
-        "choice2": "Radish ",
-        "choice3": "Turnip ",
-        "choice4": "Potato",
-        "answer": "4"
-      },
-      {
-        "question": "QUESTION 15",
-        "choice1": "Completing the syllabus without ascertaining the learning of children",
-        "choice2": "Learning levels of children ",
-        "choice3": "Class",
-        "choice4": "grade of the child Age of the child",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION 16",
-        "choice1": " services enables rapid disaster recovery",
-        "choice2": "Optimized for data for which retrieval times of several hours are suitable.",
-        "choice3": " Optimized for data that is infrequently accessed.",
-        "choice4": " Secure and durable storage for data archiving and backup.",
-        "answer": "2"
-      },
-      {
-        "question": "QUESTION 17",
-        "choice1": "hardly",
-        "choice2": "proudly",
-        "choice3": "correctly",
-        "choice4": "None of these",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION 18",
-        "choice1": "ClF3",
-        "choice2": "BCl3",
-        "choice3": "SO3",
-        "choice4": "XeO3",
-        "answer": "4"
-      },
-      {
-        "question": "QUESTION 19 ",
-        "choice1": "wreaked",
-        "choice2": "reeked",
-        "choice3": "wreckt",
-        "choice4": "rect",
-        "answer": "1"
-      },
-      {
-        "question": "QUESTION 20",
-        "choice1": "She requested be bring in glass of water.",
-        "choice2": "She requested to bring a glass of water.",
-        "choice3": "She request to bring a glass the water.",
-        "choice4": "None of these",
-        "answer": "2"
-      }
-  ]
+{
+    "question": "What is the meaning of 'ruko jara,sabar karo' Anyone please tell ??​",
+    "choice1": "Please help for some time",
+    "choice2": "Please wait for this time",
+    "choice3": "hey, wait for some time",
+    "choice4": "Please wait for some time",
+    "answer": "4"
+  },
+  {
+    "question": "The vapour density of pure ozone is?",
+    "choice1": "23",
+    "choice2": "24",
+    "choice3": "20",
+    "choice4": "15",
+    "answer": "2"
+  },
+  {
+    "question": "you must pursue______ seriousness.",
+    "choice1": "the carrier in full",
+    "choice2": "your employment with in",
+    "choice3": "carrier all in all",
+    "choice4": "your carrier with all​",
+    "answer": "4"
+  },
+  {
+    "question": "Which loop is faster in c programming for , While or do While ?​",
+    "choice1": "Do-While loop",
+    "choice2": "While loop",
+    "choice3": "For loop",
+    "choice4": "NOne of these",
+    "answer": "1"
+  },
+  {
+    "question": "I_____ Taj Mahal last month(visit)",
+    "choice1": "visited",
+    "choice2": "visites",
+    "choice3": "going",
+    "choice4": "None of these",
+    "answer": "1"
+  },
+  {
+    "question": "Which one of the following is a hard acid?",
+    "choice1": "Cu+",
+    "choice2": "Li+",
+    "choice3": "Ag+",
+    "choice4": "Au+",
+    "answer": "2"
+  },
+  {
+    "question": "The 5.78 in the form of p/q is..",
+    "choice1": "289/5",
+    "choice2": "89/50",
+    "choice3": "289/50",
+    "choice4": "209/50",
+    "answer": "3"
+  },
+  {
+    "question": "Number of cells connected in series provide a?",
+    "choice1": "High current carrying capacity",
+    "choice2": "Higher Voltage",
+    "choice3": " Higher Power",
+    "choice4": "none of the above",
+    "answer": "3"
+  },
+  {
+    "question": "Find the series this number 3,11,25,45,?",
+    "choice1": "71",
+    "choice2": "72",
+    "choice3": "73",
+    "choice4": "74",
+    "answer": "1"
+  },
+  {
+    "question": "AGD: EKH :: IOL:",
+    "choice1": "MlP",
+    "choice2": "NTR",
+    "choice3": "MSP",
+    "choice4": "NTO",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following are generic elements of a process?",
+    "choice1": " Process Activities ",
+    "choice2": "Process Roles",
+    "choice3": "Process Policy ",
+    "choice4": "All of these are elements of a process",
+    "answer": "4"
+  },
+  {
+    "question": "Commenced business with cash. ₹90000",
+    "choice1": "Cash A/c … Dr      - 90000 To Capital A/c      -       90000",
+    "choice2": "Cash A/c … Dr      - 90000 To Capital A/c",
+    "choice3": "Cash A/c … Dr,To Capital A/c      -       90000",
+    "choice4": "None of these",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following is not a plant whose root is edible?",
+    "choice1": "Carrot ",
+    "choice2": "Radish ",
+    "choice3": "Turnip ",
+    "choice4": "Potato",
+    "answer": "4"
+  },
+  {
+    "question": "Non-responsive instructions focuses on.",
+    "choice1": "Completing the syllabus without ascertaining the learning of children",
+    "choice2": "Learning levels of children ",
+    "choice3": "Class",
+    "choice4": "grade of the child Age of the child",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following is not true about Amazon Glacier?",
+    "choice1": " services enables rapid disaster recovery",
+    "choice2": "Optimized for data for which retrieval times of several hours are suitable.",
+    "choice3": " Optimized for data that is infrequently accessed.",
+    "choice4": " Secure and durable storage for data archiving and backup.",
+    "answer": "2"
+  },
+  {
+    "question": "Choose the correct intensifier if hardly made a dent.",
+    "choice1": "hardly",
+    "choice2": "proudly",
+    "choice3": "correctly",
+    "choice4": "None of these",
+    "answer": "1"
+  },
+  {
+    "question": "The species which is isostructural with PH3 is.",
+    "choice1": "ClF3",
+    "choice2": "BCl3",
+    "choice3": "SO3",
+    "choice4": "XeO3",
+    "answer": "4"
+  },
+  {
+    "question": "I hosted a birthday party last Sunday and the guests ______ havoc on my house!",
+    "choice1": "wreaked",
+    "choice2": "reeked",
+    "choice3": "wreckt",
+    "choice4": "rect",
+    "answer": "1"
+  },
+  {
+    "question": "She said, “Bring a glass of water, please.'( Change to Indirect Speech)​?",
+    "choice1": "She requested be bring in glass of water.",
+    "choice2": "She requested to bring a glass of water.",
+    "choice3": "She request to bring a glass the water.",
+    "choice4": "None of these",
+    "answer": "2"
+  }  ,
+  {
+    "question": "What are water soluble ashes called?",
+    "choice1": "acid",
+    "choice2": "alkali",
+    "choice3": "salt",
+    "choice4": "none of these",
+    "answer": "2"
+  },
+  {
+    "question": "Write down the decimal expansion of 6/15 is that terminating",
+    "choice1": "0.4.",
+    "choice2": "0.3.",
+    "choice3": "0.2.",
+    "choice4": "0.7.",
+    "answer": "1"
+  },
+  {
+    "question": "A.... of cards what collective noun ​?",
+    "choice1": "value",
+    "choice2": "box",
+    "choice3": "pack ",
+    "choice4": "none of these",
+    "answer": "3"
+  },
+  {
+    "question": "The region of the earth where life is possible?",
+    "choice1": "Solar System",
+    "choice2": "Atmosphere",
+    "choice3": "Biosphere.",
+    "choice4": "none of these",
+    "answer": "3"
+  },
+  {
+    "question": "The creator of Akharat is-",
+    "choice1": "Malik Muhammad Jayasi",
+    "choice2": "Saket",
+    "choice3": "Sun",
+    "choice4": "Woe",
+    "answer": "optaion a"
+  },
+  {
+    "question": "What did Lencho compare the large raindrops with? ",
+    "choice1": "silver coins ",
+    "choice2": "pearls ",
+    "choice3": "diamonds ",
+    "choice4": "new coins",
+    "answer": "optaion d"
+  },
+  {
+    "question": "Which of these is incorrect about the characteristic  of capital as a factor of production?",
+    "choice1": " It is an active factor of production",
+    "choice2": "It is of two types i.e. fixed capital and working capital",
+    "choice3": "It is a man-made source of production",
+    "choice4": "The capital has an economic value​",
+    "answer": "optaion a"
+  },
+  {
+    "question": "The roots which do not have any main root are called_________.​",
+    "choice1": "roodnot",
+    "choice2": "Fibrous roots ",
+    "choice3": "underroot",
+    "choice4": "none of these",
+    "answer": "2"
+  },
+  {
+    "question": "Balak Ram was the son of King Dasaratha of Awadh.",
+    "choice1": "True ",
+    "choice2": "False",
+    "choice3": "Incorrect question",
+    "choice4": "none of these",
+    "answer": "1"
+  },
+  {
+    "question": "What is the full form of TMKC​?",
+    "choice1": "Toshiba Memory Korea Coding.",
+    "choice2": "Toshiba Memory King Corporation.",
+    "choice3": "Toshiba Memory Korea Corporation.",
+    "choice4": "Toshiba Machine Korea Corporation.",
+    "answer": "3"
+  },
+  {
+    "question": "For which organizations internal check is suitable?",
+    "choice1": "Big organizations",
+    "choice2": "Small Organisations",
+    "choice3": "Petty Shopkeepers",
+    "choice4": "none of the above​",
+    "answer": "1"
+  },
+  {
+    "question": "What type of clothes should we wear in summer?",
+    "choice1": "warmest",
+    "choice2": "Cotton",
+    "choice3": "a and b",
+    "choice4": "none of these",
+    "answer": "2"
+  },
+  {
+    "question": "The following are open-source wcms except",
+    "choice1": "sitecore ",
+    "choice2": "magnolia ",
+    "choice3": "drupal ",
+    "choice4": "joomla",
+    "answer": "1"
+  },
+  {
+    "question": "11-11x11+11  Deatiled explanation ?",
+    "choice1": "85",
+    "choice2": "-65",
+    "choice3": "-99",
+    "choice4": "-77",
+    "answer": "3"
+  },
+  {
+    "question": "He___the fourth round?",
+    "choice1": "found",
+    "choice2": "seat",
+    "choice3": "excited",
+    "choice4": "fell in",
+    "answer": "4"
+  },
+  {
+    "question": "An open vessel is kept at 127°C. If this vessel is heated to 227°C then the fraction of air which escaped from the vessel is?",
+    "choice1": " 3/4",
+    "choice2": "1/5",
+    "choice3": "2/3",
+    "choice4": "1/4​",
+    "answer": "2"
+  },
+  {
+    "question": "Rubber plantation is famous in:",
+    "choice1": "sri lanka",
+    "choice2": "Brazil",
+    "choice3": "malaysia",
+    "choice4": "USA",
+    "answer": "2"
+  },
+  {
+    "question": "Which feature is needed to make enterprise application migrate to private cloud ?",
+    "choice1": "Ennoblement of application as SaaS",
+    "choice2": "Elasticity of storage for the application",
+    "choice3": "Performance benchmark for the application",
+    "choice4": "Hands-free maintenance for the application",
+    "answer": "1"
+  },
+  {
+    "question": "Her thinking leans ____ democracy.*​",
+    "choice1": "state",
+    "choice2": "actually",
+    "choice3": "Towards ",
+    "choice4": "None of these",
+    "answer": "3"
+  },
+  {
+    "question": "Where is a collection of related data elements stored?",
+    "choice1": "Field",
+    "choice2": "Record",
+    "choice3": "Table",
+    "choice4": " Both a and b.",
+    "answer": "3"
+  },
+  {
+    "question": "A person gains Rs. 357 on selling a table at 13% gain and a chair at 6% gain. If he sells the table at 15% gain and the chair 8% loss, he gains Rs. 203. What is the actual cost of the chair?",
+    "choice1": "Rs.2400",
+    "choice2": "Rs.1400",
+    "choice3": "Rs.2500",
+    "choice4": "Rs.8422",
+    "answer": "2"
+  },
+  {
+    "question": "Encapsulation makes it easier to",
+    "choice1": "REUSE AND MODIFY EXISTING MODULES OF CODE.",
+    "choice2": " HIDE AND PROTECT DATA FROM EXTERNAL CODE.",
+    "choice3": ". WRITE AND READ CODE BY SHARING METHOD NAMES.",
+    "choice4": "All of these",
+    "answer": "2"
+  },
+  {
+    "question": "A train traveling at 54 km/h, completely crosses another train of half its length and traveling in opposite direction at 72 km/h in 12 seconds. If it also passes a railway platform in one minute, the length of the platform is",
+    "choice1": " 900 m ",
+    "choice2": "800 m",
+    "choice3": "700 m",
+    "choice4": "600 m",
+    "answer": "1"
+  },
+  {
+    "question": "Loss on sale of 'Sinking Fund Investments' will be debited to:",
+    "choice1": "Surplus in Statement of Profit & Loss",
+    "choice2": " Sinking Fund Account",
+    "choice3": "Sinking Fund Investments Account",
+    "choice4": "General Reserve Account​",
+    "answer": "4"
+  },
+  {
+    "question": "A body has 64 micro coulomb of charge. Number of electron deficient in it will be?",
+    "choice1": "4 × 10^14",
+    "choice2": "4 x 10^26",
+    "choice3": "8 x 10^14",
+    "choice4": "8 x 10^26​",
+    "answer": "1"
+  },
+  {
+    "question": ".'we need to call this _______,' monika demanded .",
+    "choice1": "off ",
+    "choice2": "out ",
+    "choice3": "away ",
+    "choice4": "at",
+    "answer": "1"
+  },
+  {
+    "question": "Statements: some desks are caps. No cap is red. Conclusions: ",
+    "choice1": "some caps are desks. ",
+    "choice2": "no desk is red.",
+    "choice3": "some caps are always in desk",
+    "choice4": "None of these",
+    "answer": "1"
+  },
+  {
+    "question": "43/162 is Non terminating Non recurring or recurring ?​",
+    "choice1": "terminating recovery",
+    "choice2": "estimate recovery",
+    "choice3": "Non Terminating Recurring",
+    "choice4": "None of these",
+    "answer": "3"
+  },
+  {
+    "question": "*The acid which is highly soluble in water is called _____​",
+    "choice1": "Hydrogen",
+    "choice2": "Oxigen",
+    "choice3": "Lithium",
+    "choice4": "Hydrochloric acid.",
+    "answer": "4"
+  },
+  {
+    "question": " Antonym of Imperil ?",
+    "choice1": "Hazard ",
+    "choice2": "Safeguard ",
+    "choice3": "Endanger ",
+    "choice4": "Jeopardise",
+    "answer": "2"
+  },
+  {
+    "question": "Which poetic device is 'Trees sprinting?",
+    "choice1": "metaphor",
+    "choice2": "simile",
+    "choice3": "alliteration",
+    "choice4": "Personification",
+    "answer": "4"
+  },
+  {
+    "question": "G&T engagements typically follow:",
+    "choice1": "Agile methodology",
+    "choice2": "Waterfall methodology",
+    "choice3": "Iterative development",
+    "choice4": "All of these",
+    "answer": "4"
+  },
+  {
+    "question": "Which is NOT the source of describing history.?",
+    "choice1": " Diaries of people",
+    "choice2": " Conversation between two people",
+    "choice3": "Accounts of pilgrims and travellers",
+    "choice4": "Autobiographies of important personalities​",
+    "answer": "2"
+  },
+  {
+    "question": "Riya said, 'Ram is a fool'. ( Change for Narration)",
+    "choice1": "Riya said that ram was a fool.",
+    "choice2": "Riya said ram was the fool.",
+    "choice3": "Riya says that is ram was a fool.",
+    "choice4": "None of these",
+    "answer": "1"
+  },
+  {
+    "question": "Statements: 1. Apples are red. 2. No red colored fruits are cheap. Conclusions: i. All apples are cheap. Ii. Red colored apples are not cheap. Decide which of the given conclusions logically follow(s) from the given statements.",
+    "choice1": " only conclusion i follows",
+    "choice2": "only conclusion ii follow",
+    "choice3": "both i and ii follow",
+    "choice4": "neither i nor ii follow",
+    "answer": "2"
+  },
+  {
+    "question": "Sam starts walking 5 kms towards East. He turns eo degree dockwise and walks 12 kms and then cums right and walks for 18 How far is Sam from the starting point answer​",
+    "choice1": "45",
+    "choice2": "65",
+    "choice3": "95",
+    "choice4": "35",
+    "answer": "4"
+  },
+  {
+    "question": "I am envious ____ them (preposition)​",
+    "choice1": "a",
+    "choice2": "the",
+    "choice3": "of",
+    "choice4": "and",
+    "answer": "3"
+  },
+  {
+    "question": "The points having equal potential are?",
+    "choice1": "B and c",
+    "choice2": "B and D",
+    "choice3": "C and D",
+    "choice4": "A and B",
+    "answer": "4"
+  },
+  {
+    "question": "What is integrated grammar?? explain it with examples",
+    "choice1": "'CREATIVE EXPRESSIONS. '",
+    "choice2": "SUDDENLY EXPRESSION ",
+    "choice3": "ACTIVE EXXPRESSION",
+    "choice4": "NONE OF THESE",
+    "answer": "1"
+  },
+  {
+    "question": "He was quickly cured....his cold​?",
+    "choice1": "an",
+    "choice2": "that",
+    "choice3": "of",
+    "choice4": "head",
+    "answer": "3"
+  }
+  
