@@ -87,7 +87,7 @@ choices.forEach((choice) => {
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === 'correct') {
-            // audio.src = "./sound/correct.mp3"
+            // audio.src = "./sound/correct.mp3";
             incrementScore(CORRECT_BONUS);
         }
         if(currentQuestion.answer == answer1.dataset['number'])
