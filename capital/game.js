@@ -87,30 +87,25 @@ choices.forEach((choice) => {
             selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === 'correct') {
-            // audio.src = "./sound/correct.mp3";
             incrementScore(CORRECT_BONUS);
+            audio.src = "./sound/correct.mp3";
         }
         if(currentQuestion.answer == answer1.dataset['number'])
         {
             answer1.parentElement.classList.add('correct');
-            audio.src = "./sound/correct.mp3"
         }
         else if(currentQuestion.answer == answer2.dataset['number'])
         {
             answer2.parentElement.classList.add('correct');
-            audio.src = "./sound/correct.mp3"
            
         }
         else if(currentQuestion.answer == answer3.dataset['number'])
         {
             answer3.parentElement.classList.add('correct');
-            audio.src = "./sound/correct.mp3"
-          
         }
         else
         {
             answer4.parentElement.classList.add('correct');
-            audio.src = "./sound/correct.mp3"
         }
 
 
@@ -120,9 +115,9 @@ choices.forEach((choice) => {
 
         // next button code
         nextWorking = ()=>{
-            audio.src = "./sound/correct.mp3"
             window.scrollTo(0,0);
             selectedChoice.parentElement.classList.remove(classToApply);
+            audio.src = "/"
             answer1.parentElement.classList.remove('correct');
             answer2.parentElement.classList.remove('correct');
             answer3.parentElement.classList.remove('correct');
